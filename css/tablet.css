@@ -5,6 +5,7 @@
     display: flex;
     width: 930px;
     margin: 0 auto;
+    overflow-x:auto;
 }
 
 .product-cards--container {
@@ -15,4 +16,5 @@
 }
 .plans-container--slider{
     justify-content: center;
+    overflow-x:auto;
 }
